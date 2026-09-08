@@ -4,31 +4,36 @@
 
 </div>
 
-<br>
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-AmirSadeghiH-181717?style=flat&logo=github)](https://github.com/AmirSadeghiH)
-[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-Backend-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![AI](https://img.shields.io/badge/AI-RAG%20%26%20LLMs-0f172a?style=flat&logo=openai&logoColor=white)](#ai--engineering)
+[![GitHub](https://img.shields.io/badge/GitHub-AmirSadeghiH-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/AmirSadeghiH)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amir%20Sadeghi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-sadeghi-680548417/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![AI](https://img.shields.io/badge/AI-RAG%20%26%20LLMs-172554?style=flat-square&logo=openai&logoColor=white)](#ai--engineering)
 
 </div>
+
+<br/>
 
 ## About
 
 I'm **Amir Sadeghi**, a developer focused on **backend engineering, AI-powered systems, and product development**.
 
-I like taking an idea from a rough concept to a working product: designing the backend, building APIs, integrating AI, deploying the system, and then improving it through real usage.
+I enjoy taking an idea from concept to a working system: designing the backend, building APIs, integrating AI, deploying the product, and improving it through real usage.
 
-My current direction is **Full-Stack Development**, with backend engineering as my strongest foundation.
+My current direction is **Full-Stack Development**, with **Python backend engineering** as my strongest foundation.
 
 ```text
 Backend        → Python · Django · Django REST Framework · FastAPI
 AI / Data      → RAG · LLMs · Embeddings · Machine Learning
-Frontend       → HTML · CSS · JavaScript · Flutter
-Infrastructure → Docker · Linux · Nginx · Git · GitHub
+Frontend       → HTML · CSS · JavaScript
+Infrastructure → Docker · Linux · Nginx · Git · GitHub · PostgreSQL
 ```
+
+<div align="center">
+  <img src="./assets/divider.svg" width="72%" alt="" />
+</div>
 
 ## Featured Projects
 
@@ -38,15 +43,9 @@ Infrastructure → Docker · Linux · Nginx · Git · GitHub
 
 ### Website AI Assistant
 
-AI-powered customer support for websites using **RAG, LLMs and Django**.
+AI-powered website customer support built around **RAG, LLMs and Django**.
 
-- Website/document knowledge ingestion
-- Retrieval-augmented generation
-- API-first backend
-- Embeddable chat widget
-- Dockerized deployment
-
-**Stack:** `Python` `Django` `DRF` `RAG` `LLM` `Docker`
+`Python` `Django` `DRF` `RAG` `LLM` `Docker`
 
 [View repository →](https://github.com/AmirSadeghiH/Website-AI-Assistant)
 
@@ -55,14 +54,9 @@ AI-powered customer support for websites using **RAG, LLMs and Django**.
 
 ### CarSanj.ir
 
-A used-car price estimation platform combining **Django, real-world marketplace data and machine learning**.
+Used-car price estimation platform combining **Django, marketplace data and machine learning**.
 
-- Data collection and preparation
-- Random Forest price estimation
-- Web application and prediction flow
-- RAG-based assistant integration
-
-**Stack:** `Python` `Django` `ML` `Random Forest` `RAG`
+`Python` `Django` `ML` `Random Forest` `RAG`
 
 </td>
 </tr>
@@ -71,22 +65,18 @@ A used-car price estimation platform combining **Django, real-world marketplace 
 
 ### LogGame
 
-A Persian gaming platform built around **games, content, community and personalization**.
+A Persian gaming platform evolving around **games, content, community and personalization**.
 
-The project is evolving from a simple gaming website into a broader product architecture.
-
-**Stack:** `Python` `Django` `JavaScript` `HTML/CSS`
+`Python` `Django` `JavaScript` `HTML/CSS`
 
 </td>
 <td width="50%" valign="top">
 
 ### Melody-baz
 
-A Telegram social playlist bot focused on music discovery, playlists, referrals and user progression.
+Telegram social playlist bot with music discovery, playlists, referrals and progression systems.
 
-Built with a modular backend architecture and asynchronous database layer.
-
-**Stack:** `Python` `Telegram` `Async SQLAlchemy` `Pydantic`
+`Python` `Telegram` `Async SQLAlchemy` `Pydantic`
 
 [View repository →](https://github.com/AmirSadeghiH/Melody-baz)
 
@@ -94,39 +84,58 @@ Built with a modular backend architecture and asynchronous database layer.
 </tr>
 </table>
 
+<div align="center">
+  <img src="./assets/divider.svg" width="72%" alt="" />
+</div>
+
 ## AI & Engineering
 
-I'm particularly interested in the engineering side of AI rather than simply calling an API.
+I'm most interested in the engineering behind AI products: making systems useful, reliable, efficient and deployable.
 
-| Area | What I'm exploring |
+| Area | Focus |
 | --- | --- |
 | **RAG** | Retrieval pipelines, embeddings, chunking and evaluation |
-| **LLM Systems** | Context management, cost optimization and reliable outputs |
-| **AI Agents** | Tool use, workflows and autonomous task execution |
+| **LLM Systems** | Context, cost optimization and reliability |
+| **AI Agents** | Tool use, workflows and task execution |
 | **Backend** | APIs, architecture, security, performance and scalability |
-| **DevOps** | Docker, Linux, deployment, monitoring and production systems |
+| **DevOps** | Docker, Linux, deployment and production fundamentals |
 
 ## Currently Building
 
 ```text
-01  Better backend architecture
-02  Production-ready AI / RAG systems
+01  Production-ready backend architecture
+02  AI / RAG systems that solve real problems
 03  Full-stack development skills
-04  Deployment & DevOps fundamentals
-05  Open-source tools for developers
+04  Deployment and DevOps fundamentals
+05  Small open-source tools for developers
 ```
 
 ## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,dart,flutter,docker,linux,nginx,git,github,postgresql&perline=7" alt="Python, Django, FastAPI, HTML, CSS, JavaScript, Dart, Flutter, Docker, Linux, Nginx, Git, GitHub, PostgreSQL" />
+### Core
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql&perline=8" alt="Python, Django, FastAPI, PostgreSQL" />
 </p>
+
+### Web
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js&perline=8" alt="HTML, CSS, JavaScript" />
+</p>
+
+### Infrastructure & Workflow
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github&perline=8" alt="Docker, Linux, Nginx, Git, GitHub" />
+</p>
+
+<div align="center">
+  <img src="./assets/divider.svg" width="72%" alt="" />
+</div>
 
 ## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirSadeghiH&hide_border=true&area=true" width="100%" alt="Amir Sadeghi GitHub activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirSadeghiH&bg_color=0b1120&color=94a3b8&line=38bdf8&point=22d3ee&area=true&area_color=0f172a&hide_border=true" width="100%" alt="Amir Sadeghi GitHub activity graph" />
 
 </div>
 
@@ -140,7 +149,8 @@ I care more about understanding systems and building useful software than collec
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmirSadeghiH)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmirSadeghiH)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-sadeghi-680548417/)
 
 </div>
 
@@ -148,6 +158,6 @@ I care more about understanding systems and building useful software than collec
 
 <div align="center">
 
-<sub>Building software, learning continuously, and turning ideas into systems.</sub>
+<sub>Build systems. Ship products. Keep learning.</sub>
 
 </div>
