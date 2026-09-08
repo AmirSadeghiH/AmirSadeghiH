@@ -1,6 +1,10 @@
 name: Update GitHub Activity Snapshot
 
 on:
+  push:
+    paths:
+      - "scripts/generate-github-snapshot.py"
+      - ".github/workflows/github-snapshot.yml"
   schedule:
     - cron: "17 2 * * *"
   workflow_dispatch:
