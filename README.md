@@ -31,15 +31,11 @@ Frontend       → HTML · CSS · JavaScript
 Infrastructure → Docker · Linux · Nginx · Git · GitHub · PostgreSQL
 ```
 
-<div align="center">
-  <img src="./assets/divider.svg" width="72%" alt="" />
-</div>
+<div align="center"><img src="./assets/divider.svg" width="72%" alt="" /></div>
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<table><tr><td width="50%" valign="top">
 
 ### Website AI Assistant
 
@@ -49,8 +45,7 @@ AI-powered website customer support built around **RAG, LLMs and Django**.
 
 [View repository →](https://github.com/AmirSadeghiH/Website-AI-Assistant)
 
-</td>
-<td width="50%" valign="top">
+</td><td width="50%" valign="top">
 
 ### CarSanj.ir
 
@@ -58,10 +53,7 @@ Used-car price estimation platform combining **Django, marketplace data and mach
 
 `Python` `Django` `ML` `Random Forest` `RAG`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</td></tr><tr><td width="50%" valign="top">
 
 ### LogGame
 
@@ -69,8 +61,7 @@ A Persian gaming platform evolving around **games, content, community and person
 
 `Python` `Django` `JavaScript` `HTML/CSS`
 
-</td>
-<td width="50%" valign="top">
+</td><td width="50%" valign="top">
 
 ### Melody-baz
 
@@ -80,13 +71,9 @@ Telegram social playlist bot with music discovery, playlists, referrals and prog
 
 [View repository →](https://github.com/AmirSadeghiH/Melody-baz)
 
-</td>
-</tr>
-</table>
+</td></tr></table>
 
-<div align="center">
-  <img src="./assets/divider.svg" width="72%" alt="" />
-</div>
+<div align="center"><img src="./assets/divider.svg" width="72%" alt="" /></div>
 
 ## AI & Engineering
 
@@ -113,47 +100,25 @@ I'm most interested in the engineering behind AI products: making systems useful
 ## Tech Stack
 
 ### Core
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql&perline=8" alt="Python, Django, FastAPI, PostgreSQL" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql&perline=8" alt="Python, Django, FastAPI, PostgreSQL" /></p>
 
 ### Web
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js&perline=8" alt="HTML, CSS, JavaScript" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=html,css,js&perline=8" alt="HTML, CSS, JavaScript" /></p>
 
 ### Infrastructure & Workflow
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github&perline=8" alt="Docker, Linux, Nginx, Git, GitHub" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github&perline=8" alt="Docker, Linux, Nginx, Git, GitHub" /></p>
 
-<div align="center">
-  <img src="./assets/divider.svg" width="72%" alt="" />
-</div>
+<div align="center"><img src="./assets/divider.svg" width="72%" alt="" /></div>
 
 ## GitHub Activity
 
 <div align="center">
 
-<img src="https://github.com/users/AmirSadeghiH/contributions" width="100%" alt="Amir Sadeghi GitHub contribution calendar" />
-
-<br/>
-
-<a href="https://github.com/AmirSadeghiH">
-  <img src="https://img.shields.io/github/followers/AmirSadeghiH?style=flat-square&label=Followers&color=38bdf8" alt="GitHub followers" />
-</a>
-<a href="https://github.com/AmirSadeghiH?tab=repositories">
-  <img src="https://img.shields.io/badge/Public%20Projects-Explore-0f172a?style=flat-square&logo=github" alt="Public projects" />
-</a>
-<a href="https://github.com/AmirSadeghiH?tab=stars">
-  <img src="https://img.shields.io/badge/Stars-Explore-0f172a?style=flat-square&logo=github" alt="GitHub stars" />
-</a>
+<img src="./assets/github-snapshot.svg" width="100%" alt="Amir Sadeghi GitHub activity" />
 
 </div>
 
-<div align="center">
-  <img src="./assets/divider.svg" width="72%" alt="" />
-</div>
+<div align="center"><img src="./assets/divider.svg" width="72%" alt="" /></div>
 
 ## Engineering Philosophy
 
@@ -170,10 +135,6 @@ I care more about understanding systems and building useful software than collec
 
 </div>
 
-<br>
+<br/>
 
-<div align="center">
-
-<sub>Build systems. Ship products. Keep learning.</sub>
-
-</div>
+<div align="center"><sub>Build systems. Ship products. Keep learning.</sub></div>
