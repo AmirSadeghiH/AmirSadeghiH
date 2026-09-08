@@ -135,8 +135,24 @@ I'm most interested in the engineering behind AI products: making systems useful
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirSadeghiH&bg_color=0b1120&color=94a3b8&line=38bdf8&point=22d3ee&area=true&area_color=0f172a&hide_border=true" width="100%" alt="Amir Sadeghi GitHub activity graph" />
+<img src="https://github.com/users/AmirSadeghiH/contributions" width="100%" alt="Amir Sadeghi GitHub contribution calendar" />
 
+<br/>
+
+<a href="https://github.com/AmirSadeghiH">
+  <img src="https://img.shields.io/github/followers/AmirSadeghiH?style=flat-square&label=Followers&color=38bdf8" alt="GitHub followers" />
+</a>
+<a href="https://github.com/AmirSadeghiH?tab=repositories">
+  <img src="https://img.shields.io/badge/Public%20Projects-Explore-0f172a?style=flat-square&logo=github" alt="Public projects" />
+</a>
+<a href="https://github.com/AmirSadeghiH?tab=stars">
+  <img src="https://img.shields.io/badge/Stars-Explore-0f172a?style=flat-square&logo=github" alt="GitHub stars" />
+</a>
+
+</div>
+
+<div align="center">
+  <img src="./assets/divider.svg" width="72%" alt="" />
 </div>
 
 ## Engineering Philosophy
