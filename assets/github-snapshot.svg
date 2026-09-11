@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="270" viewBox="0 0 900 270" role="img" aria-labelledby="title desc">
 <title id="title">Amir Sadeghi GitHub activity</title>
-<desc id="desc">101 contributions in 2026, 8 public repositories, 7 stars and 0 followers.</desc>
+<desc id="desc">101 contributions in 2026, 9 public repositories, 10 stars and 0 followers.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="900" y2="270" gradientUnits="userSpaceOnUse"><stop stop-color="#0b1120"/><stop offset="1" stop-color="#111827"/></linearGradient>
   <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(720 120) scale(270 150)"><stop stop-color="#38bdf8" stop-opacity=".08"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
@@ -17,8 +17,8 @@
 <text x="42" y="119" class="ui" font-size="13" fill="#94a3b8">A snapshot of recent engineering activity on GitHub.</text>
 <line x1="42" y1="143" x2="243" y2="143" stroke="#38bdf8" stroke-opacity=".55"/>
 <g class="ui">
-  <text x="42" y="175" font-size="11" fill="#64748b">PUBLIC REPOS</text><text x="42" y="201" font-size="22" font-weight="700" fill="#e2e8f0">8</text>
-  <text x="130" y="175" font-size="11" fill="#64748b">STARS</text><text x="130" y="201" font-size="22" font-weight="700" fill="#e2e8f0">7</text>
+  <text x="42" y="175" font-size="11" fill="#64748b">PUBLIC REPOS</text><text x="42" y="201" font-size="22" font-weight="700" fill="#e2e8f0">9</text>
+  <text x="130" y="175" font-size="11" fill="#64748b">STARS</text><text x="130" y="201" font-size="22" font-weight="700" fill="#e2e8f0">10</text>
   <text x="205" y="175" font-size="11" fill="#64748b">FOLLOWERS</text><text x="205" y="201" font-size="22" font-weight="700" fill="#e2e8f0">0</text>
 </g>
 <text x="310" y="48" class="mono" font-size="10" font-weight="700" letter-spacing="1.5" fill="#64748b">CONTRIBUTION CALENDAR · 2026</text>
